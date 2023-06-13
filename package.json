@@ -1,0 +1,23 @@
+{
+  "name": "api-planets",
+  "version": "1.0.0",
+  "description": "\"# planets-backend\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitsuki16/planets-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitsuki16/planets-backend/issues"
+  },
+  "homepage": "https://github.com/Mitsuki16/planets-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
